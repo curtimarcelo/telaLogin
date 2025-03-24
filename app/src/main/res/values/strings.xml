@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">telaLogin</string>
+    <string name="usuario">Usuário</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Não é cadastrado?</string>
+    <string name="click_here">CLIQUE AQUI</string>
+    <string name="password">Senha</string>
+    <string name="forgot_password">Esqueceu a senha?</string>
+    <string name="recover_password">Recuperar senha</string>
+    <string name="facebook_icon">face_</string>
+    <string name="google_icon">google_</string>
+    <string name="descricao_imagem_senha">Ícone de cadeado para alteração de senha</string>
+    <string name="account_icon">iconeConta\n</string>
+
+</resources>
